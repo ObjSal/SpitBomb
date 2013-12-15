@@ -1,0 +1,14 @@
+<-- Game Play -->
+- las bolitas es vida para el PC
+- el PC tiene 5 bolitas disponibles,
+- cada vez que le pegan, le quitan bolitas
+- cada vez que dispara se le quita una bolita.
+- cuando no tiene ninguna bolita disponible, con un solo disparo que le den se puede morir.
+- que aparezca el nombre del jugador arriba de la bomba, y cuando presionen F1 que se quite y cuando le aplasten de nuevo que la muestre.
+
+<-- Graphics -->
+- cada vez que agarra una bolita, se hace mas grande
+- cada vez que tira o le pegan se hace mas chico
+
+<-- Programacion -->
+- Hacer una clase separada del KeyListener
