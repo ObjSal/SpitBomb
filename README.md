@@ -3,6 +3,7 @@ SpitBomb
 
 2 player shooting game
 
+![Screenshot](https://raw.githubusercontent.com/ObjSal/SpitBomb/master/res/screen_shot.png)
 
 Instructions
 ========
